@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aplikasi Profile</string>
+    <string name="title_home"> Profile </string>
+    <string name="title_dashboard">Contact</string>
+    <string name="title_notifications">Friends</string>
+    <string name="nama">Aditia Renaldi</string>
+    <string name="nim">10116359</string>
+    <string name="kelas">IF-8</string>
+    <string name="deskripsi">I am a creative person. I like to find alternative solutions to various problems that exist and be open about all the best possible solutions. My creativity is very helpful in being a good leader because I can anticipate various problems and solve them with various solutions</string>
+    <string name="ig">aditiarenaldii_</string>
+    <string name="twiter">-</string>
+    <string name="phone">082120010715</string>
+    <string name="email">renaldiaditia07@gmail.com</string>
+
+</resources>
